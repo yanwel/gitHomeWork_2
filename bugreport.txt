@@ -1,0 +1,6 @@
+id:1
+osName: Adroid
+numOS:"5.5
+Description: The 'confirm' button doesn't works on registration form after tapping
+ActualResult:After tap the 'Confirm' button nothing happening 
+ExpectedREsult:After tap the 'Confirm' button the data user send on server and apearing succes message pop up
